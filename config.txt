@@ -1,0 +1,20 @@
+{
+    "path_checkpoints": [
+        "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/models/checkpoints"
+    ],
+    "path_loras": [
+        "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/models/loras"
+    ],
+    "path_embeddings": "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/models/embeddings",
+    "path_vae_approx": "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/models/vae_approx",
+    "path_vae": "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/models/vae",
+    "path_upscale_models": "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/models/upscale_models",
+    "path_inpaint": "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/models/inpaint",
+    "path_controlnet": "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/models/controlnet",
+    "path_clip_vision": "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/models/clip_vision",
+    "path_fooocus_expansion": "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/models/prompt_expansion/ai_image_generator_expansion",
+    "path_wildcards": "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/wildcards",
+    "path_safety_checker": "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/models/safety_checker",
+    "path_sam": "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/models/sam",
+    "path_outputs": "/Users/yukthesh/Downloads/Infinity\u221eProjects/Image-generator/outputs"
+}
