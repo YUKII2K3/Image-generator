@@ -26,6 +26,9 @@ AI Image Generator is a powerful, user-friendly tool for creating high-quality i
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YUKII2K3/Image-generator/blob/main/ai_image_generator_colab.ipynb)
 
+[![Open In Colab (Fooocus Original)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb)
+<sub>Try the original Fooocus Colab notebook</sub>
+
 1. Click the "Open In Colab" button above
 2. Run all cells in the notebook
 3. Access the web interface through the provided link
